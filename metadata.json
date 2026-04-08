@@ -1,0 +1,5 @@
+{
+  "name": "SecureAuth Dashboard",
+  "description": "A secure login and registration system with a real-time dashboard powered by Firebase Firestore and Authentication.",
+  "requestFramePermissions": []
+}
